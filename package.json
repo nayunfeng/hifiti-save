@@ -1,0 +1,15 @@
+{
+  "name": "hifiti-save",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.cjs",
+    "test": "node --test test/*.test.cjs",
+    "preview": "node preview.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/tampermonkey": "^5.5.0",
+    "jsdom": "^26.1.0"
+  }
+}

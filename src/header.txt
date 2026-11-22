@@ -1,0 +1,21 @@
+// ==UserScript==
+// @name         HiFiTi 一键存网盘
+// @name:zh-CN   HiFiTi 一键存网盘
+// @namespace    local.hifiti.save
+// @version      1.0.0
+// @description  每日访问自动签到；一键回帖解锁、提取码和夸克转存，百度提供带码入口。
+// @description:zh-CN 每日访问自动签到；一键回帖解锁、提取码和夸克转存，百度提供带码入口。
+// @license      MIT
+// @match        https://hifiti.com/*
+// @match        https://www.hifiti.com/*
+// @match        https://pan.quark.cn/s/*
+// @run-at       document-idle
+// @noframes
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_deleteValue
+// @grant        GM_addValueChangeListener
+// @grant        GM_openInTab
+// @grant        GM_xmlhttpRequest
+// @connect      drive-pc.quark.cn
+// ==/UserScript==

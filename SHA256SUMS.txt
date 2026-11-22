@@ -1,0 +1,2 @@
+d532838eadfb66d6830b990ea00de4fe7fce41d9fbe0f1ca5b979f9bc6c65df0  dist/hifiti-save.user.js
+50c79d40af5967b461d90c3572fd01fcd76422380d9f89ce41a823da1bb49c85  dist/hifiti-save-v1.0.0.zip

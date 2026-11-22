@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": [
+      "ES2022",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "types": [
+      "node",
+      "tampermonkey"
+    ]
+  },
+  "include": [
+    "src/**/*.js",
+    "test/**/*.cjs",
+    "*.cjs"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
